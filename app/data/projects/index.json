@@ -24,9 +24,13 @@
       "id": "Systhema",
       "name": "Systhema Test Model"
     },
-        {
+    {
       "id": "VX46PortalAltex",
       "name": "Portal Altex AFI Palace Brasov"
+    },
+    {
+      "id": "VX41CasaBucium",
+      "name": "LamaArhitectura Casa Bucium"
     }
   ]
 }
