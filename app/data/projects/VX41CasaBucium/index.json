@@ -1,1 +1,15 @@
-
+{
+  "id": "VX41CasaBucium",
+  "name": "LamaArhitectura Casa Bucium",
+  "models": [
+    {
+      "id": "design",
+      "name": "LamaArhitectura Casa Bucium"
+    }
+  ],
+  "viewerContent": {
+    "modelsLoaded": [
+      "design"
+    ]
+  }
+}
