@@ -1,0 +1,15 @@
+{
+  "id": "VX39ScoalaStoenesti",
+  "name": "Scoala Gimnaziala Stoenesti",
+  "models": [
+    {
+      "id": "design",
+      "name": "Scoala Gimnaziala Stoenesti"
+    }
+  ],
+  "viewerContent": {
+    "modelsLoaded": [
+      "design"
+    ]
+  }
+}
